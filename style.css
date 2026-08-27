@@ -1,0 +1,64 @@
+/*
+Theme Name: devgloomyjp
+Theme URI:
+Author: inadanaoki
+Author URI:
+Description: ポートフォリオ用オリジナルテーマ
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.8
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: devgloomyjp
+*/
+
+/* ===== リセット ===== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans",
+    "Noto Sans JP", sans-serif;
+  line-height: 1.8;
+  color: #1a1a1a;
+  background: #fff;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: inherit;
+}
+
+/* ===== レイアウト ===== */
+.container {
+  width: min(100% - 2rem, 1100px);
+  margin-inline: auto;
+}
+
+.site-header {
+  padding: 1.5rem 0;
+}
+
+.site-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.site-footer {
+  padding: 3rem 0;
+  margin-top: 4rem;
+  font-size: 0.875rem;
+  color: #666;
+}
