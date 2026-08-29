@@ -228,7 +228,7 @@ footer{text-align:center;padding:40px 6vw;color:var(--muted);font-size:11px;lett
     <div class="stitle rv">02 &nbsp;—&nbsp; MY LOVES</div>
     <div class="h2 rv">全力で<b>好きなもの</b></div>
     <div class="grid">
-      <div class="card rv"><div class="no">01</div><div class="emo">💍</div><h3>奥さん</h3><p>何より大切で最高のパートナー。</p></div>
+      <div class="card rv"><div class="no">01</div><div class="emo">💍</div><h3>奥さん</h3><p>何より大切な最高のパートナー。</p></div>
       <div class="card rv"><div class="no">02</div><div class="emo">🐈‍⬛</div><h3>黒猫</h3><p>気まぐれで、最高の癒し。</p></div>
       <div class="card rv"><div class="no">03</div><div class="emo">🐩</div><h3>トイプードル</h3><p>いつも全力でお出迎え。</p></div>
       <div class="card rv"><div class="no">04</div><div class="emo">🏍</div><h3>オートバイ</h3><p>五感で味わえる最高の鉄馬</p></div>
